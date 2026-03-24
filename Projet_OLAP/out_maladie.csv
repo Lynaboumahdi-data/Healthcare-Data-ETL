@@ -1,0 +1,401 @@
+reason,ID_reason
+Back Pain,1
+Migraine,3
+Diabetes,5
+Migraine,7
+Hypertension,9
+Migraine,11
+Headache,13
+Chest Pain,15
+General Checkup,17
+Asthma,19
+General Checkup,21
+Fever,23
+Headache,25
+Diabetes,27
+Back Pain,29
+Hypertension,31
+Hypertension,33
+Headache,35
+Hypertension,37
+Migraine,39
+General Checkup,41
+Hypertension,43
+Headache,45
+Headache,47
+Hypertension,49
+General Checkup,51
+Chest Pain,53
+Headache,55
+Hypertension,57
+General Checkup,59
+General Checkup,61
+Asthma,63
+Chest Pain,65
+Fever,67
+Headache,69
+Chest Pain,71
+Migraine,73
+Asthma,75
+Fever,77
+Diabetes,79
+Hypertension,81
+Back Pain,83
+Asthma,85
+Migraine,87
+Hypertension,89
+Asthma,91
+Hypertension,93
+Headache,95
+Back Pain,97
+Headache,99
+Headache,101
+Chest Pain,103
+Chest Pain,105
+General Checkup,107
+Headache,109
+General Checkup,111
+Back Pain,113
+Hypertension,115
+Chest Pain,117
+Back Pain,119
+General Checkup,121
+Back Pain,123
+Chest Pain,125
+Headache,127
+Migraine,129
+Asthma,131
+General Checkup,133
+Hypertension,135
+General Checkup,137
+Headache,139
+Headache,141
+Migraine,143
+General Checkup,145
+General Checkup,147
+Back Pain,149
+Headache,151
+Chest Pain,153
+Headache,155
+Chest Pain,157
+Fever,159
+Chest Pain,161
+Chest Pain,163
+Asthma,165
+Migraine,167
+Headache,169
+Asthma,171
+General Checkup,173
+Back Pain,175
+Hypertension,177
+Hypertension,179
+Back Pain,181
+Asthma,183
+Migraine,185
+Chest Pain,187
+Back Pain,189
+Diabetes,191
+Hypertension,193
+General Checkup,195
+Back Pain,197
+Hypertension,199
+Hypertension,201
+Hypertension,203
+Asthma,205
+Diabetes,207
+Hypertension,209
+Migraine,211
+Headache,213
+Migraine,215
+Chest Pain,217
+Asthma,219
+Fever,221
+Diabetes,223
+General Checkup,225
+Headache,227
+Migraine,229
+Chest Pain,231
+Chest Pain,233
+Diabetes,235
+Asthma,237
+General Checkup,239
+Asthma,241
+General Checkup,243
+Headache,245
+Diabetes,247
+General Checkup,249
+Fever,251
+Chest Pain,253
+Back Pain,255
+Headache,257
+Headache,259
+Chest Pain,261
+Migraine,263
+General Checkup,265
+Fever,267
+Asthma,269
+Headache,271
+General Checkup,273
+Back Pain,275
+Diabetes,277
+Migraine,279
+Diabetes,281
+Chest Pain,283
+Migraine,285
+Fever,287
+Hypertension,289
+Back Pain,291
+General Checkup,293
+Asthma,295
+Back Pain,297
+Chest Pain,299
+Fever,301
+Headache,303
+Asthma,305
+Headache,307
+Diabetes,309
+Back Pain,311
+Diabetes,313
+Diabetes,315
+Headache,317
+Migraine,319
+General Checkup,321
+Fever,323
+Diabetes,325
+Headache,327
+Headache,329
+Chest Pain,331
+Back Pain,333
+Chest Pain,335
+General Checkup,337
+General Checkup,339
+Fever,341
+Asthma,343
+Diabetes,345
+Migraine,347
+Diabetes,349
+Migraine,351
+Asthma,353
+Asthma,355
+General Checkup,357
+Asthma,359
+Hypertension,361
+General Checkup,363
+Hypertension,365
+Back Pain,367
+General Checkup,369
+Hypertension,371
+Diabetes,373
+Asthma,375
+Back Pain,377
+General Checkup,379
+Hypertension,381
+Headache,383
+Migraine,385
+Chest Pain,387
+Back Pain,389
+Diabetes,391
+General Checkup,393
+Migraine,395
+General Checkup,397
+Chest Pain,399
+Asthma,401
+Diabetes,403
+Migraine,405
+Fever,407
+Back Pain,409
+Asthma,411
+Hypertension,413
+Diabetes,415
+Diabetes,417
+Fever,419
+Fever,421
+Migraine,423
+Back Pain,425
+Chest Pain,427
+Hypertension,429
+Headache,431
+Chest Pain,433
+Headache,435
+Chest Pain,437
+Fever,439
+Headache,441
+Diabetes,443
+General Checkup,445
+Migraine,447
+Diabetes,449
+General Checkup,451
+Asthma,453
+Hypertension,455
+Diabetes,457
+Hypertension,459
+Diabetes,461
+Back Pain,463
+Diabetes,465
+Back Pain,467
+General Checkup,469
+Back Pain,471
+Back Pain,473
+Fever,475
+Chest Pain,477
+General Checkup,479
+Hypertension,481
+General Checkup,483
+Back Pain,485
+General Checkup,487
+Fever,489
+Diabetes,491
+Hypertension,493
+Migraine,495
+Diabetes,497
+Hypertension,499
+Asthma,501
+Diabetes,503
+General Checkup,505
+Headache,507
+Asthma,509
+Migraine,511
+Migraine,513
+Headache,515
+Migraine,517
+General Checkup,519
+General Checkup,521
+Migraine,523
+Diabetes,525
+Diabetes,527
+Headache,529
+Hypertension,531
+Headache,533
+Diabetes,535
+Fever,537
+Asthma,539
+General Checkup,541
+Migraine,543
+Headache,545
+Fever,547
+Migraine,549
+Back Pain,551
+Diabetes,553
+Migraine,555
+Back Pain,557
+General Checkup,559
+Migraine,561
+Chest Pain,563
+Fever,565
+Headache,567
+Hypertension,569
+General Checkup,571
+Fever,573
+Chest Pain,575
+Migraine,577
+Diabetes,579
+Headache,581
+Fever,583
+Migraine,585
+Back Pain,587
+Chest Pain,589
+General Checkup,591
+Chest Pain,593
+General Checkup,595
+Fever,597
+Hypertension,599
+Diabetes,601
+Chest Pain,603
+Diabetes,605
+Migraine,607
+Diabetes,609
+Diabetes,611
+General Checkup,613
+Back Pain,615
+Diabetes,617
+Headache,619
+Asthma,621
+Back Pain,623
+General Checkup,625
+Diabetes,627
+Asthma,629
+Hypertension,631
+Asthma,633
+Headache,635
+Diabetes,637
+Diabetes,639
+General Checkup,641
+Fever,643
+Asthma,645
+Headache,647
+General Checkup,649
+Asthma,651
+General Checkup,653
+Hypertension,655
+Fever,657
+Asthma,659
+Chest Pain,661
+Migraine,663
+Chest Pain,665
+Fever,667
+Hypertension,669
+Chest Pain,671
+Migraine,673
+Diabetes,675
+Chest Pain,677
+Headache,679
+Diabetes,681
+Fever,683
+Headache,685
+Asthma,687
+Diabetes,689
+Migraine,691
+Asthma,693
+Asthma,695
+Back Pain,697
+Asthma,699
+General Checkup,701
+Chest Pain,703
+Chest Pain,705
+Fever,707
+Chest Pain,709
+Fever,711
+Hypertension,713
+Headache,715
+Back Pain,717
+Asthma,719
+Headache,721
+Back Pain,723
+Hypertension,725
+Headache,727
+Fever,729
+Diabetes,731
+Back Pain,733
+Fever,735
+Hypertension,737
+Diabetes,739
+Headache,741
+Chest Pain,743
+Asthma,745
+Chest Pain,747
+Asthma,749
+General Checkup,751
+General Checkup,753
+Asthma,755
+Hypertension,757
+Back Pain,759
+Diabetes,761
+Chest Pain,763
+General Checkup,765
+Back Pain,767
+Headache,769
+Hypertension,771
+Diabetes,773
+General Checkup,775
+Diabetes,777
+Fever,779
+Back Pain,781
+Diabetes,783
+Chest Pain,785
+Diabetes,787
+Headache,789
+Fever,791
+Migraine,793
+General Checkup,795
+Headache,797
+Migraine,799

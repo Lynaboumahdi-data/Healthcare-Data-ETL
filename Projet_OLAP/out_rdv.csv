@@ -1,0 +1,401 @@
+appoIntment_Id,mode_of_appointment,appointment_status
+5000,Call,Completed
+5001,In Person,Completed
+5002,Call,Completed
+5003,Call,Completed
+5004,Online,Cancelled
+5005,Call,Completed
+5006,Online,Completed
+5007,Online,Scheduled
+5008,Online,Completed
+5009,Online,Completed
+5010,Online,Cancelled
+5011,In Person,Completed
+5012,Online,Completed
+5013,Online,Completed
+5014,In Person,Completed
+5015,Online,Completed
+5016,In Person,Completed
+5017,In Person,Completed
+5018,Online,Completed
+5019,Call,Completed
+5020,In Person,Completed
+5021,Call,Completed
+5022,Online,Completed
+5023,In Person,No-Show
+5024,Call,Cancelled
+5025,Online,No-Show
+5026,Call,Cancelled
+5027,Call,Completed
+5028,Online,Completed
+5029,Call,Completed
+5030,Call,Completed
+5031,Online,Completed
+5032,Call,Completed
+5033,Online,Completed
+5034,In Person,Completed
+5035,Call,Completed
+5036,Call,Completed
+5037,In Person,Completed
+5038,In Person,Completed
+5039,Online,Cancelled
+5040,Call,No-Show
+5041,In Person,No-Show
+5042,Online,Completed
+5043,In Person,No-Show
+5044,In Person,Completed
+5045,In Person,Completed
+5046,Call,Completed
+5047,In Person,Scheduled
+5048,In Person,Scheduled
+5049,Call,No-Show
+5050,In Person,Completed
+5051,Call,Completed
+5052,Online,Completed
+5053,In Person,Completed
+5054,Online,Completed
+5055,Online,Completed
+5056,Online,Completed
+5057,Online,Completed
+5058,Call,Completed
+5059,In Person,Completed
+5060,Online,Scheduled
+5061,Online,Completed
+5062,Online,Completed
+5063,In Person,No-Show
+5064,Call,Completed
+5065,In Person,No-Show
+5066,Online,Completed
+5067,In Person,Completed
+5068,Online,Completed
+5069,Call,Completed
+5070,In Person,Completed
+5071,Call,Completed
+5072,Online,Scheduled
+5073,Call,Scheduled
+5074,Online,Completed
+5075,Call,Completed
+5076,In Person,Completed
+5077,Call,Completed
+5078,In Person,Completed
+5079,Online,No-Show
+5080,Online,Scheduled
+5081,In Person,Completed
+5082,Call,Completed
+5083,In Person,Completed
+5084,Online,Scheduled
+5085,In Person,Completed
+5086,Call,Cancelled
+5087,Call,Completed
+5088,Call,Completed
+5089,In Person,Completed
+5090,Online,Completed
+5091,In Person,Completed
+5092,Online,Completed
+5093,In Person,Completed
+5094,Call,Scheduled
+5095,Online,Completed
+5096,In Person,Scheduled
+5097,In Person,Completed
+5098,In Person,Completed
+5099,Online,Completed
+5100,Online,Completed
+5101,In Person,Completed
+5102,Online,Completed
+5103,Call,Completed
+5104,Call,Completed
+5105,In Person,Completed
+5106,Online,Scheduled
+5107,Online,Completed
+5108,Call,Completed
+5109,In Person,Completed
+5110,Call,Completed
+5111,Online,No-Show
+5112,Call,Completed
+5113,Call,Completed
+5114,In Person,Completed
+5115,Online,Completed
+5116,In Person,Completed
+5117,Online,Completed
+5118,In Person,Cancelled
+5119,Online,Completed
+5120,In Person,Completed
+5121,Call,Completed
+5122,Call,Completed
+5123,In Person,Completed
+5124,Online,Completed
+5125,Online,Completed
+5126,Call,No-Show
+5127,Online,Scheduled
+5128,Online,No-Show
+5129,Call,Completed
+5130,In Person,Completed
+5131,In Person,Completed
+5132,In Person,Completed
+5133,Call,Cancelled
+5134,In Person,Scheduled
+5135,In Person,Cancelled
+5136,In Person,Completed
+5137,Call,Completed
+5138,In Person,Completed
+5139,Online,Completed
+5140,Call,Completed
+5141,Call,Scheduled
+5142,Online,Completed
+5143,In Person,Completed
+5144,In Person,Completed
+5145,Online,Scheduled
+5146,In Person,Completed
+5147,Online,No-Show
+5148,Online,Completed
+5149,Call,Completed
+5150,In Person,Completed
+5151,In Person,Completed
+5152,Call,Completed
+5153,Online,Completed
+5154,Call,Completed
+5155,Call,Completed
+5156,Online,Completed
+5157,In Person,Completed
+5158,Call,No-Show
+5159,Online,Completed
+5160,In Person,Completed
+5161,Call,Completed
+5162,In Person,Completed
+5163,Online,Completed
+5164,Online,Completed
+5165,Call,Completed
+5166,Call,Completed
+5167,Call,Completed
+5168,Online,Completed
+5169,In Person,Completed
+5170,In Person,Completed
+5171,In Person,Completed
+5172,Call,Completed
+5173,In Person,Completed
+5174,Online,Completed
+5175,Online,Completed
+5176,Online,Completed
+5177,In Person,Completed
+5178,Call,Completed
+5179,Online,Completed
+5180,In Person,No-Show
+5181,Call,Completed
+5182,In Person,Completed
+5183,Call,Completed
+5184,Online,Completed
+5185,Online,Completed
+5186,In Person,Completed
+5187,In Person,Completed
+5188,Online,Cancelled
+5189,Call,Completed
+5190,In Person,Completed
+5191,In Person,Completed
+5192,Online,Completed
+5193,In Person,No-Show
+5194,Call,Completed
+5195,Online,Completed
+5196,Call,Scheduled
+5197,In Person,Completed
+5198,In Person,Completed
+5199,In Person,Completed
+5200,In Person,Completed
+5201,Online,No-Show
+5202,In Person,Completed
+5203,Online,Completed
+5204,Call,Completed
+5205,Call,Completed
+5206,Online,No-Show
+5207,Call,Completed
+5208,Call,Completed
+5209,Call,Completed
+5210,Call,Completed
+5211,Online,Completed
+5212,In Person,Completed
+5213,In Person,No-Show
+5214,In Person,Completed
+5215,In Person,Cancelled
+5216,Online,Scheduled
+5217,In Person,Completed
+5218,Online,Completed
+5219,In Person,Completed
+5220,Call,Completed
+5221,Online,Scheduled
+5222,Online,Completed
+5223,Online,Completed
+5224,Call,Completed
+5225,Call,Completed
+5226,In Person,Scheduled
+5227,Call,Completed
+5228,Call,Completed
+5229,Online,Completed
+5230,In Person,Completed
+5231,Online,No-Show
+5232,Online,Scheduled
+5233,Online,Completed
+5234,Call,Completed
+5235,Call,Completed
+5236,Call,Completed
+5237,Online,Completed
+5238,Call,No-Show
+5239,Online,Completed
+5240,Call,No-Show
+5241,Call,Scheduled
+5242,Online,Completed
+5243,Online,Completed
+5244,Online,Scheduled
+5245,Online,Completed
+5246,Call,Completed
+5247,Call,Completed
+5248,Online,Completed
+5249,Online,Completed
+5250,Call,No-Show
+5251,Online,Completed
+5252,In Person,Scheduled
+5253,Call,Completed
+5254,Online,Scheduled
+5255,In Person,Completed
+5256,In Person,Completed
+5257,Online,Completed
+5258,Online,Completed
+5259,Online,Cancelled
+5260,In Person,Completed
+5261,In Person,Scheduled
+5262,In Person,Completed
+5263,Call,Completed
+5264,Online,Completed
+5265,Call,Completed
+5266,In Person,Completed
+5267,Call,Completed
+5268,Online,Completed
+5269,In Person,No-Show
+5270,Call,Completed
+5271,In Person,Completed
+5272,In Person,Cancelled
+5273,Online,Completed
+5274,Call,No-Show
+5275,Online,Completed
+5276,Online,Completed
+5277,In Person,Completed
+5278,Online,Completed
+5279,Online,Completed
+5280,In Person,Completed
+5281,Call,Completed
+5282,Call,Completed
+5283,Online,No-Show
+5284,Call,Completed
+5285,Call,Completed
+5286,Online,Completed
+5287,Call,No-Show
+5288,Online,Cancelled
+5289,Online,Completed
+5290,Online,Cancelled
+5291,Online,Completed
+5292,Call,Completed
+5293,Online,No-Show
+5294,Online,Cancelled
+5295,In Person,Scheduled
+5296,Call,Completed
+5297,In Person,Cancelled
+5298,Online,Completed
+5299,Call,Cancelled
+5300,Call,Cancelled
+5301,Online,Completed
+5302,In Person,Scheduled
+5303,Call,Completed
+5304,In Person,Completed
+5305,In Person,Completed
+5306,Online,Completed
+5307,Call,Completed
+5308,Call,Completed
+5309,In Person,Scheduled
+5310,Call,Completed
+5311,In Person,Completed
+5312,Online,Completed
+5313,Online,Cancelled
+5314,Call,Completed
+5315,Call,Completed
+5316,Online,Completed
+5317,Online,Completed
+5318,Call,Completed
+5319,Call,Scheduled
+5320,Online,Completed
+5321,Call,Completed
+5322,In Person,Completed
+5323,Online,Completed
+5324,Online,Completed
+5325,In Person,No-Show
+5326,Call,Completed
+5327,In Person,Completed
+5328,In Person,Completed
+5329,Call,Completed
+5330,Online,Completed
+5331,In Person,Scheduled
+5332,Call,Completed
+5333,In Person,Completed
+5334,Call,Scheduled
+5335,In Person,Completed
+5336,Online,No-Show
+5337,In Person,Completed
+5338,Online,Completed
+5339,Call,Completed
+5340,Call,Completed
+5341,In Person,Completed
+5342,In Person,Completed
+5343,Online,Cancelled
+5344,Online,Scheduled
+5345,In Person,Completed
+5346,Call,No-Show
+5347,Call,Completed
+5348,Call,Completed
+5349,Call,Completed
+5350,In Person,Completed
+5351,Call,Scheduled
+5352,Call,Scheduled
+5353,In Person,No-Show
+5354,In Person,No-Show
+5355,Call,Completed
+5356,Call,Completed
+5357,Call,Completed
+5358,Online,Cancelled
+5359,In Person,Completed
+5360,Online,Completed
+5361,Call,Completed
+5362,In Person,Completed
+5363,In Person,Completed
+5364,In Person,Completed
+5365,Online,Completed
+5366,Online,Completed
+5367,Online,Completed
+5368,In Person,Completed
+5369,In Person,No-Show
+5370,Online,Completed
+5371,In Person,Completed
+5372,In Person,No-Show
+5373,Online,Completed
+5374,Call,Completed
+5375,In Person,Completed
+5376,In Person,Completed
+5377,In Person,Completed
+5378,In Person,Completed
+5379,In Person,Completed
+5380,Online,Completed
+5381,Call,Completed
+5382,In Person,Scheduled
+5383,Online,Completed
+5384,In Person,Completed
+5385,Online,Completed
+5386,In Person,Completed
+5387,Online,Completed
+5388,Online,Completed
+5389,In Person,Completed
+5390,In Person,No-Show
+5391,Call,No-Show
+5392,In Person,Completed
+5393,Call,Completed
+5394,Call,Completed
+5395,Online,Scheduled
+5396,Call,Completed
+5397,In Person,No-Show
+5398,In Person,Completed
+5399,Call,Completed
