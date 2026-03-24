@@ -7,7 +7,7 @@ We used ETL to extract, transform, and load data, then do OLAP analysis.
 ## ETL Job
 Below is the Talend job used in this project:
 
-![Talend Job](job_talend.png)
+![Talend Job](image.png)
 
 ## Work Done
 - Created a star schema (fact table and dimensions)  
